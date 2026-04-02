@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d945a0df67d13c2c7f4953f955d57d2, type: 3}
+  m_Name: Settings
+  m_EditorClassIdentifier:
+  gameAnalyticsIosGameKey: 6b51084f98f4172dcce49a0acba7bf1b
+  gameAnalyticsIosSecretKey: 61e4ba3fbb45c1b70fcf1beabbdc671b6e4f8ca5
+  gameAnalyticsAndroidGameKey: 01000432c9ab82cc9f53a1242b23a2d8
+  gameAnalyticsAndroidSecretKey: c310624132093d9a6a06d9512270907c5223b6d9
+  facebookAppId: 2186391915112134
+  facebookClientToken: c9db9cf81d5e026219a78231ecebc7c6
+  adjustIOSToken: p6a21f4khnnk
+  adjustAndroidToken: rbaqgv75rls0
+  EditorIdfa: a022afb5-76ba-4403-a4e3-d86733a59357
+  UseRemoteConfig: 0
+  UseVoodooAnalytics: 1
+  companyName: Microdose Oy
+  privacyPolicyURL: https://microdosecontact.wordpress.com/privacy-policy/
+  developerContactEmail: contact@microdosegames.com
